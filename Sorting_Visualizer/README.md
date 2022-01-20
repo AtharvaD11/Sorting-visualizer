@@ -6,6 +6,6 @@ Color Coding :
 1) Red : Swap
 2) Green : Sorting 
 
-![Alt Text](E:\sorting visualizer\Sorting_Visualizer\livedeom.gif.gif)
+![](livedeom.gif.gif)
 
 
