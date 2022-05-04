@@ -70,9 +70,10 @@ nav .header_right .algos {
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (16.66667%)[6];
-      grid-template-columns: repeat(6, 16.66667%);
+      grid-template-columns: repeat(6, 1fr);
   place-content: center;
   padding: 2% 0%;
+  column-gap : 1rem;
 }
 
 nav .header_right .algos button {
